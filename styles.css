@@ -1,0 +1,223 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* ===== FRUIT THEME COLORS ===== */
+:root {
+  --primary-green: #2d5016;
+  --light-green: #4ade80;
+  --orange: #fb923c;
+  --yellow: #fbbf24;
+  --red: #ef4444;
+  --light-red: #fca5a5;
+  --cream: #fef3c7;
+  --dark-green: #166534;
+  --gradient-orange: linear-gradient(135deg, #fb923c, #f97316);
+  --gradient-green: linear-gradient(135deg, #4ade80, #22c55e);
+  --gradient-red: linear-gradient(135deg, #f87171, #ef4444);
+}
+
+/* ===== GLOBAL STYLES ===== */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #f0fdf4 0%, #fef3c7 100%);
+  min-height: 100vh;
+}
+
+.navbar {
+  background: var(--gradient-green) !important;
+  box-shadow: 0 2px 10px rgba(45, 80, 22, 0.1);
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: white !important;
+}
+
+.btn-primary {
+  background: var(--gradient-orange) !important;
+  border: none !important;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background: var(--gradient-red) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(249, 115, 22, 0.3);
+}
+
+.btn-danger {
+  background: var(--gradient-red) !important;
+  border: none !important;
+}
+
+.btn-success {
+  background: var(--gradient-green) !important;
+  border: none !important;
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.card:hover .card-img-top {
+  transform: scale(1.05);
+}
+
+.price {
+  color: var(--red) !important;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: #6b7280;
+  font-size: 0.9em;
+}
+
+.discount-badge {
+  background: var(--gradient-red) !important;
+  color: white !important;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-size: 0.8em;
+}
+
+/* ===== CATEGORY STYLES ===== */
+.category-container {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+.category-wrapper {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-top: 15px;
+}
+
+.category-item {
+  background: linear-gradient(135deg, #f0fdf4, #ecfdf5);
+  border: 2px solid #d1fae5;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 100px;
+}
+
+.category-item:hover {
+  background: var(--gradient-green);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(34, 197, 94, 0.3);
+}
+
+.category-item.active {
+  background: var(--gradient-green);
+  color: white;
+  border-color: var(--primary-green);
+}
+
+/* ===== QUOTE BOX ===== */
+.quote-box {
+  background: linear-gradient(135deg, #fef3c7, #fde68a);
+  border-left: 5px solid var(--orange);
+  padding: 20px;
+  margin: 30px 0;
+  border-radius: 10px;
+  font-style: italic;
+  color: var(--primary-green);
+}
+
+/* ===== TABLE STYLES ===== */
+.table {
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.table thead {
+  background: var(--gradient-green);
+  color: white;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #f0fdf4;
+}
+
+/* ===== FORM STYLES ===== */
+.form-control {
+  border: 2px solid #d1fae5;
+  border-radius: 8px;
+  transition: border-color 0.3s ease;
+}
+
+.form-control:focus {
+  border-color: var(--light-green);
+  box-shadow: 0 0 0 0.2rem rgba(74, 222, 128, 0.25);
+}
+
+/* ===== DASHBOARD SIDEBAR ===== */
+.sidebar {
+  background: var(--gradient-green);
+  min-height: 100vh;
+}
+
+.sidebar .nav-link {
+  color: rgba(255, 255, 255, 0.8) !important;
+  transition: all 0.3s ease;
+}
+
+.sidebar .nav-link:hover {
+  color: white !important;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+}
+
+/* ===== FOOTER ===== */
+footer {
+  background: var(--primary-green);
+  color: white;
+  margin-top: 50px;
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-out;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+  .category-wrapper {
+    justify-content: center;
+  }
+
+  .card {
+    margin-bottom: 20px;
+  }
+}

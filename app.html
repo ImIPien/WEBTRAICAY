@@ -1,0 +1,7 @@
+@if (isDashboardPage()) {
+  <header></header>
+  <router-outlet></router-outlet>
+} @else {
+  <app-header (searchEvent)="onSearch($event)"></app-header>
+  <router-outlet></router-outlet>
+}

@@ -1,0 +1,430 @@
+﻿[33mΓ¥»[39m Building...
+[32mΓ£ö[39m Building...
+[1mInitial chunk files[22m                    [2m | [22m[1mNames[22m                               [2m | [22m [1mRaw size[22m
+[32mstyles.css[39m                             [2m | [22m[2mstyles[22m                              [2m | [22m[36m281.16 kB[39m[2m | [22m
+[32mscripts.js[39m                             [2m | [22m[2mscripts[22m                             [2m | [22m [36m78.70 kB[39m[2m | [22m
+[32mchunk-M4MZLIAI.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m [36m41.67 kB[39m[2m | [22m
+[32mspec-app-dashboard-dashboard.js[39m        [2m | [22m[2mspec-app-dashboard-dashboard[22m        [2m | [22m [36m40.32 kB[39m[2m | [22m
+[32mspec-app-home-home.js[39m                  [2m | [22m[2mspec-app-home-home[22m                  [2m | [22m [36m32.62 kB[39m[2m | [22m
+[32mspec-app-fruit-detail-book-detail.js[39m   [2m | [22m[2mspec-app-fruit-detail-book-detail[22m   [2m | [22m [36m27.99 kB[39m[2m | [22m
+[32mchunk-6PS2DDS3.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m [36m27.49 kB[39m[2m | [22m
+[32mspec-app-checkout-checkout.js[39m          [2m | [22m[2mspec-app-checkout-checkout[22m          [2m | [22m [36m22.73 kB[39m[2m | [22m
+[32mchunk-2BRWCOAP.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m [36m21.25 kB[39m[2m | [22m
+[32mspec-app-cart-cart.js[39m                  [2m | [22m[2mspec-app-cart-cart[22m                  [2m | [22m [36m16.80 kB[39m[2m | [22m
+[32mspec-app-wishlist-wishlist.component.js[39m[2m | [22m[2mspec-app-wishlist-wishlist.component[22m[2m | [22m [36m13.83 kB[39m[2m | [22m
+[32mspec-app-auth-signup-signup.js[39m         [2m | [22m[2mspec-app-auth-signup-signup[22m         [2m | [22m [36m13.37 kB[39m[2m | [22m
+[32mspec-app-footer-footer.js[39m              [2m | [22m[2mspec-app-footer-footer[22m              [2m | [22m [36m11.21 kB[39m[2m | [22m
+[32mspec-app-auth-signin-signin.js[39m         [2m | [22m[2mspec-app-auth-signin-signin[22m         [2m | [22m [36m10.84 kB[39m[2m | [22m
+[32mchunk-KHYQ3HH2.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m [36m10.30 kB[39m[2m | [22m
+[32mspec-app-orderuser-orderuser.js[39m        [2m | [22m[2mspec-app-orderuser-orderuser[22m        [2m | [22m  [36m9.23 kB[39m[2m | [22m
+[32mchunk-5D6QCA5F.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m  [36m6.88 kB[39m[2m | [22m
+[32mchunk-NM7PQHL7.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m  [36m5.84 kB[39m[2m | [22m
+[32mchunk-CCZICKCW.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m  [36m5.80 kB[39m[2m | [22m
+[32mchunk-RSTWSNOR.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m  [36m4.75 kB[39m[2m | [22m
+[32mchunk-ZFTHI2XT.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m  [36m4.38 kB[39m[2m | [22m
+[32mchunk-753SG47A.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m  [36m4.02 kB[39m[2m | [22m
+[32mspec-app-app.js[39m                        [2m | [22m[2mspec-app-app[22m                        [2m | [22m  [36m3.72 kB[39m[2m | [22m
+[32mchunk-YWRZMZTI.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m  [36m3.27 kB[39m[2m | [22m
+[32mchunk-Q5XTWSJ7.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m  [36m2.15 kB[39m[2m | [22m
+[32mchunk-WHUMPAT5.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m  [36m2.12 kB[39m[2m | [22m
+[32mchunk-W46TF6X7.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m  [36m1.84 kB[39m[2m | [22m
+[32mchunk-ZIRJD4TE.js[39m                      [2m | [22m[2m-[22m                                   [2m | [22m  [36m1.71 kB[39m[2m | [22m
+[32minit-testbed.js[39m                        [2m | [22m[2minit-testbed[22m                        [2m | [22m  [36m1.21 kB[39m[2m | [22m
+[32mspec-app-auth-auth-guard.js[39m            [2m | [22m[2mspec-app-auth-auth-guard[22m            [2m | [22m  [36m1.07 kB[39m[2m | [22m
+[32mspec-app-header-header.js[39m              [2m | [22m[2mspec-app-header-header[22m              [2m | [22m[36m867 bytes[39m[2m | [22m
+[32mspec-app-orderlist-orderlist.js[39m        [2m | [22m[2mspec-app-orderlist-orderlist[22m        [2m | [22m[36m801 bytes[39m[2m | [22m
+[32mspec-app-auth-employees-employees.js[39m   [2m | [22m[2mspec-app-auth-employees-employees[22m   [2m | [22m[36m721 bytes[39m[2m | [22m
+[32mspec-app-auth-customers-customers.js[39m   [2m | [22m[2mspec-app-auth-customers-customers[22m   [2m | [22m[36m661 bytes[39m[2m | [22m
+[32mspec-app-Services-checkout.js[39m          [2m | [22m[2mspec-app-Services-checkout[22m          [2m | [22m[36m622 bytes[39m[2m | [22m
+[32mspec-app-Services-cart.js[39m              [2m | [22m[2mspec-app-Services-cart[22m              [2m | [22m[36m512 bytes[39m[2m | [22m
+[32mspec-app-Services-customers.js[39m         [2m | [22m[2mspec-app-Services-customers[22m         [2m | [22m[36m474 bytes[39m[2m | [22m
+[32mspec-app-Services-employee.js[39m          [2m | [22m[2mspec-app-Services-employee[22m          [2m | [22m[36m472 bytes[39m[2m | [22m
+[32mspec-app-Services-fruit-service.js[39m     [2m | [22m[2mspec-app-Services-fruit-service[22m     [2m | [22m[36m470 bytes[39m[2m | [22m
+[32mspec-app-Services-auth.js[39m              [2m | [22m[2mspec-app-Services-auth[22m              [2m | [22m[36m461 bytes[39m[2m | [22m
+[32mspec-app-auth-auth.js[39m                  [2m | [22m[2mspec-app-auth-auth[22m                  [2m | [22m[36m453 bytes[39m[2m | [22m
+[32mspec-app-Services-storage.js[39m           [2m | [22m[2mspec-app-Services-storage[22m           [2m | [22m[36m446 bytes[39m[2m | [22m
+[32mspec-app-cart.js[39m                       [2m | [22m[2mspec-app-cart[22m                       [2m | [22m[36m434 bytes[39m[2m | [22m
+
+[1m [22m                                      [2m | [22m[1mInitial total[22m                       [2m | [22m[1m715.67 kB[22m
+
+Application bundle generation complete. [2.644 seconds] - 2026-03-22T07:19:33.680Z
+
+
+[1m[46m RUN [49m[22m [36mv4.0.17 [39m[90mC:/Users/ACER/OneDrive/Documents/PhanNguyenMinhTu_601250026_Lab12/Lab11[39m
+
+ [31mΓ¥»[39m [30m[43m FruitShop [49m[39m src/app/fruit-detail/book-detail.spec.ts [2m([22m[2m1 test[22m[2m | [22m[31m1 failed[39m[2m)[22m[32m 52[2mms[22m[39m
+[31m     [31m├ù[31m should create[39m[32m 50[2mms[22m[39m
+ [31mΓ¥»[39m [30m[43m FruitShop [49m[39m src/app/wishlist/wishlist.component.spec.ts [2m([22m[2m1 test[22m[2m | [22m[31m1 failed[39m[2m)[22m[32m 254[2mms[22m[39m
+[31m     [31m├ù[31m should create[39m[32m 251[2mms[22m[39m
+ [31mΓ¥»[39m [30m[43m FruitShop [49m[39m src/app/auth/signin/signin.spec.ts [2m([22m[2m1 test[22m[2m | [22m[31m1 failed[39m[2m)[22m[32m 223[2mms[22m[39m
+[31m     [31m├ù[31m should create[39m[32m 220[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/footer/footer.spec.ts [2m([22m[2m1 test[22m[2m)[22m[33m 366[2mms[22m[39m
+     [33m[2mΓ£ô[22m[39m should create [33m 360[2mms[22m[39m
+ [31mΓ¥»[39m [30m[43m FruitShop [49m[39m src/app/auth/signup/signup.spec.ts [2m([22m[2m1 test[22m[2m | [22m[31m1 failed[39m[2m)[22m[32m 151[2mms[22m[39m
+[31m     [31m├ù[31m should create[39m[32m 150[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/orderuser/orderuser.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 38[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/Services/fruit-service.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 8[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/Services/checkout.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 13[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/auth/employees/employees.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 66[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/Services/auth.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 5[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/Services/customers.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 7[2mms[22m[39m
+node.exe : Not implemented: Window's alert() method
+At C:\Users\ACER\AppData\Roaming\npm\ng.ps1:24 char:5
++     & "node$exe"  "$basedir/node_modules/@angular/cli/bin/ng.js" $arg ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Not implemented: Window's alert() 
+    method:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ [31mΓ¥»[39m [30m[43m FruitShop [49m[39m src/app/header/header.spec.ts [2m([22m[2m1 test[22m[2m | [22m[31m1 failed[39m[2m)[22m[33m 364[2mms[22m[39m
+[31m     [31m├ù[31m should create[39m[33m 361[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/auth/auth.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 6[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/Services/employee.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 5[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/Services/storage.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 5[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/auth/customers/customers.spec.ts [2m([22m[2m1 test[22m[2m)[22m[33m 394[2mms[22m[39m
+     [33m[2mΓ£ô[22m[39m should create [33m 392[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/auth/auth-guard.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 1[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/cart.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 4[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/Services/cart.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 4[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/checkout/checkout.spec.ts [2m([22m[2m1 test[22m[2m)[22m[33m 339[2mms[22m[39m
+     [33m[2mΓ£ô[22m[39m should create [33m 337[2mms[22m[39m
+[90mstderr[2m | src/app/app.spec.ts[2m > [22m[2mApp[2m > [22m[2mshould 
+render title
+[22m[39mERROR ╔╡NotFound: NG0201: No provider found for `ActivatedRoute`. 
+Source: Standalone[_App]. Find more at https://v21.angular.dev/errors/NG0201
+    at createRuntimeError [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanNg
+uyenMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm2
+022/_untracked-chunk.mjs:600:17[90m)[39m
+    at NullInjector.get [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanNguy
+enMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm202
+2/_untracked-chunk.mjs:881:21[90m)[39m
+    at R3Injector.get [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanNguyen
+MinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm2022/
+_untracked-chunk.mjs:1206:27[90m)[39m
+    at R3Injector.get [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanNguyen
+MinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm2022/
+_untracked-chunk.mjs:1206:27[90m)[39m
+    at R3Injector.get [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanNguyen
+MinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm2022/
+_untracked-chunk.mjs:1206:27[90m)[39m
+    at ChainedInjector.get [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanN
+guyenMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm
+2022/_debug_node-chunk.mjs:7493:32[90m)[39m
+    at lookupTokenUsingModuleInjector [90m(file:///C:/Users/ACER/OneDrive/Docu
+ments/PhanNguyenMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/cor
+e[24m/fesm2022/_debug_node-chunk.mjs:890:31[90m)[39m
+    at getOrCreateInjectable [90m(file:///C:/Users/ACER/OneDrive/Documents/Pha
+nNguyenMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fe
+sm2022/_debug_node-chunk.mjs:913:10[90m)[39m
+    at ╔╡╔╡directiveInject [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanN
+guyenMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm
+2022/_debug_node-chunk.mjs:7527:17[90m)[39m
+    at NodeInjectorFactory.RouterLink_Factory [as factory] 
+(ng:///RouterLink/╔╡fac.js:6:7) {
+  code: [33m-201[39m,
+  ngErrorCode: [33m-201[39m,
+  ngErrorMessage: [32m'No provider found for `ActivatedRoute`.'[39m,
+  ngTokenPath: [ [32m'ActivatedRoute'[39m ]
+}
+
+[90mstderr[2m | src/app/home/home.spec.ts[2m > [22m[2mHome[2m > 
+[22m[2mshould create
+[22m[39mERROR ╔╡NotFound: NG0201: No provider found for `ActivatedRoute`. 
+Source: Standalone[_Home]. Find more at https://v21.angular.dev/errors/NG0201
+    at createRuntimeError [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanNg
+uyenMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm2
+022/_untracked-chunk.mjs:600:17[90m)[39m
+    at NullInjector.get [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanNguy
+enMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm202
+2/_untracked-chunk.mjs:881:21[90m)[39m
+    at R3Injector.get [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanNguyen
+MinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm2022/
+_untracked-chunk.mjs:1206:27[90m)[39m
+    at R3Injector.get [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanNguyen
+MinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm2022/
+_untracked-chunk.mjs:1206:27[90m)[39m
+    at R3Injector.get [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanNguyen
+MinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm2022/
+_untracked-chunk.mjs:1206:27[90m)[39m
+    at ChainedInjector.get [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanN
+guyenMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm
+2022/_debug_node-chunk.mjs:7493:32[90m)[39m
+    at lookupTokenUsingModuleInjector [90m(file:///C:/Users/ACER/OneDrive/Docu
+ments/PhanNguyenMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/cor
+e[24m/fesm2022/_debug_node-chunk.mjs:890:31[90m)[39m
+    at getOrCreateInjectable [90m(file:///C:/Users/ACER/OneDrive/Documents/Pha
+nNguyenMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fe
+sm2022/_debug_node-chunk.mjs:913:10[90m)[39m
+    at ╔╡╔╡directiveInject [90m(file:///C:/Users/ACER/OneDrive/Documents/PhanN
+guyenMinhTu_601250026_Lab12/Lab11/[39mnode_modules/[4m@angular/core[24m/fesm
+2022/_debug_node-chunk.mjs:7527:17[90m)[39m
+    at NodeInjectorFactory.RouterLink_Factory [as factory] 
+(ng:///RouterLink/╔╡fac.js:6:7) {
+  code: [33m-201[39m,
+  ngErrorCode: [33m-201[39m,
+  ngErrorMessage: [32m'No provider found for `ActivatedRoute`.'[39m,
+  ngTokenPath: [ [32m'ActivatedRoute'[39m ]
+}
+
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/orderlist/orderlist.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 300[2mms[22m[39m
+     [33m[2mΓ£ô[22m[39m should create [32m 300[2mms[22m[39m
+ [31mΓ¥»[39m [30m[43m FruitShop [49m[39m src/app/home/home.spec.ts [2m([22m[2m1 test[22m[2m | [22m[31m1 failed[39m[2m)[22m[33m 579[2mms[22m[39m
+[31m     [31m├ù[31m should create[39m[33m 577[2mms[22m[39m
+ [31mΓ¥»[39m [30m[43m FruitShop [49m[39m src/app/app.spec.ts [2m([22m[2m2 tests[22m[2m | [22m[31m1 failed[39m[2m)[22m[33m 398[2mms[22m[39m
+     [32mΓ£ô[39m should create the app[32m 127[2mms[22m[39m
+[31m     [31m├ù[31m should render title[39m[32m 269[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/cart/cart.spec.ts [2m([22m[2m1 test[22m[2m)[22m[32m 65[2mms[22m[39m
+ [32mΓ£ô[39m [30m[43m FruitShop [49m[39m src/app/dashboard/dashboard.spec.ts [2m([22m[2m1 test[22m[2m)[22m[33m 401[2mms[22m[39m
+     [33m[2mΓ£ô[22m[39m should create [33m 399[2mms[22m[39m
+
+[31mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»[39m[1m[41m Failed Tests 7 
+[49m[22m[31mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»[39m
+
+[41m[1m FAIL [22m[49m [30m[43m FruitShop [49m[39m 
+src/app/app.spec.ts[2m > [22mApp[2m > [22mshould render title
+[31m[1m╔╡NotFound[22m: NG0201: No provider found for `ActivatedRoute`. 
+Source: Standalone[_App]. Find more at 
+https://v21.angular.dev/errors/NG0201[39m
+[90m [2mΓ¥»[22m createRuntimeError 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m600:17[22m[39m
+[90m [2mΓ¥»[22m NullInjector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m881:21[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m ChainedInjector.get 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7493:32[22m[39m
+[90m [2mΓ¥»[22m lookupTokenUsingModuleInjector 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m890:31[22m[39m
+[90m [2mΓ¥»[22m getOrCreateInjectable 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m913:10[22m[39m
+[90m [2mΓ¥»[22m ╔╡╔╡directiveInject 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7527:17[22m[39m
+[90m [2mΓ¥»[22m NodeInjectorFactory.RouterLink_Factory [as factory] 
+ng:/RouterLink/╔╡fac.js:[2m6:7[22m[39m
+
+[31m[2mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»Γ
+Ä»[1/7]ΓÄ»[22m[39m
+
+[41m[1m FAIL [22m[49m [30m[43m FruitShop [49m[39m 
+src/app/fruit-detail/book-detail.spec.ts[2m > [22mBookDetailComponent[2m > 
+[22mshould create
+[31m[1m╔╡NotFound[22m: NG0201: No provider found for `ActivatedRoute`. 
+Source: Standalone[_BookDetailComponent]. Find more at 
+https://v21.angular.dev/errors/NG0201[39m
+[90m [2mΓ¥»[22m createRuntimeError 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m600:17[22m[39m
+[90m [2mΓ¥»[22m NullInjector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m881:21[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m ChainedInjector.get 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7493:32[22m[39m
+[90m [2mΓ¥»[22m lookupTokenUsingModuleInjector 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m890:31[22m[39m
+[90m [2mΓ¥»[22m getOrCreateInjectable 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m913:10[22m[39m
+[90m [2mΓ¥»[22m ╔╡╔╡directiveInject 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7527:17[22m[39m
+[90m [2mΓ¥»[22m ╔╡╔╡inject 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m682:59[22m[39m
+
+[31m[2mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»Γ
+Ä»[2/7]ΓÄ»[22m[39m
+
+[41m[1m FAIL [22m[49m [30m[43m FruitShop [49m[39m 
+src/app/header/header.spec.ts[2m > [22mHeader[2m > [22mshould create
+[31m[1m╔╡NotFound[22m: NG0201: No provider found for `ActivatedRoute`. 
+Source: Standalone[_Header]. Find more at 
+https://v21.angular.dev/errors/NG0201[39m
+[90m [2mΓ¥»[22m createRuntimeError 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m600:17[22m[39m
+[90m [2mΓ¥»[22m NullInjector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m881:21[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m ChainedInjector.get 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7493:32[22m[39m
+[90m [2mΓ¥»[22m lookupTokenUsingModuleInjector 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m890:31[22m[39m
+[90m [2mΓ¥»[22m getOrCreateInjectable 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m913:10[22m[39m
+[90m [2mΓ¥»[22m ╔╡╔╡directiveInject 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7527:17[22m[39m
+[90m [2mΓ¥»[22m NodeInjectorFactory.RouterLink_Factory [as factory] 
+ng:/RouterLink/╔╡fac.js:[2m6:7[22m[39m
+
+[31m[2mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»Γ
+Ä»[3/7]ΓÄ»[22m[39m
+
+[41m[1m FAIL [22m[49m [30m[43m FruitShop [49m[39m 
+src/app/home/home.spec.ts[2m > [22mHome[2m > [22mshould create
+[31m[1m╔╡NotFound[22m: NG0201: No provider found for `ActivatedRoute`. 
+Source: Standalone[_Home]. Find more at 
+https://v21.angular.dev/errors/NG0201[39m
+[90m [2mΓ¥»[22m createRuntimeError 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m600:17[22m[39m
+[90m [2mΓ¥»[22m NullInjector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m881:21[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m ChainedInjector.get 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7493:32[22m[39m
+[90m [2mΓ¥»[22m lookupTokenUsingModuleInjector 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m890:31[22m[39m
+[90m [2mΓ¥»[22m getOrCreateInjectable 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m913:10[22m[39m
+[90m [2mΓ¥»[22m ╔╡╔╡directiveInject 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7527:17[22m[39m
+[90m [2mΓ¥»[22m NodeInjectorFactory.RouterLink_Factory [as factory] 
+ng:/RouterLink/╔╡fac.js:[2m6:7[22m[39m
+
+[31m[2mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»Γ
+Ä»[4/7]ΓÄ»[22m[39m
+
+[41m[1m FAIL [22m[49m [30m[43m FruitShop [49m[39m 
+src/app/wishlist/wishlist.component.spec.ts[2m > [22mWishlistComponent[2m > 
+[22mshould create
+[31m[1m╔╡NotFound[22m: NG0201: No provider found for `ActivatedRoute`. 
+Source: Standalone[_WishlistComponent]. Find more at 
+https://v21.angular.dev/errors/NG0201[39m
+[90m [2mΓ¥»[22m createRuntimeError 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m600:17[22m[39m
+[90m [2mΓ¥»[22m NullInjector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m881:21[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m ChainedInjector.get 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7493:32[22m[39m
+[90m [2mΓ¥»[22m lookupTokenUsingModuleInjector 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m890:31[22m[39m
+[90m [2mΓ¥»[22m getOrCreateInjectable 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m913:10[22m[39m
+[90m [2mΓ¥»[22m ╔╡╔╡directiveInject 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7527:17[22m[39m
+[90m [2mΓ¥»[22m NodeInjectorFactory.RouterLink_Factory [as factory] 
+ng:/RouterLink/╔╡fac.js:[2m6:7[22m[39m
+
+[31m[2mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»Γ
+Ä»[5/7]ΓÄ»[22m[39m
+
+[41m[1m FAIL [22m[49m [30m[43m FruitShop [49m[39m 
+src/app/auth/signin/signin.spec.ts[2m > [22mSignin[2m > [22mshould create
+[31m[1m╔╡NotFound[22m: NG0201: No provider found for `ActivatedRoute`. 
+Source: Standalone[_Signin]. Find more at 
+https://v21.angular.dev/errors/NG0201[39m
+[90m [2mΓ¥»[22m createRuntimeError 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m600:17[22m[39m
+[90m [2mΓ¥»[22m NullInjector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m881:21[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m ChainedInjector.get 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7493:32[22m[39m
+[90m [2mΓ¥»[22m lookupTokenUsingModuleInjector 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m890:31[22m[39m
+[90m [2mΓ¥»[22m getOrCreateInjectable 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m913:10[22m[39m
+[90m [2mΓ¥»[22m ╔╡╔╡directiveInject 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7527:17[22m[39m
+[90m [2mΓ¥»[22m NodeInjectorFactory.RouterLink_Factory [as factory] 
+ng:/RouterLink/╔╡fac.js:[2m6:7[22m[39m
+
+[31m[2mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»Γ
+Ä»[6/7]ΓÄ»[22m[39m
+
+[41m[1m FAIL [22m[49m [30m[43m FruitShop [49m[39m 
+src/app/auth/signup/signup.spec.ts[2m > [22mSignup[2m > [22mshould create
+[31m[1m╔╡NotFound[22m: NG0201: No provider found for `ActivatedRoute`. 
+Source: Standalone[_Signup]. Find more at 
+https://v21.angular.dev/errors/NG0201[39m
+[90m [2mΓ¥»[22m createRuntimeError 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m600:17[22m[39m
+[90m [2mΓ¥»[22m NullInjector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m881:21[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m R3Injector.get 
+node_modules/@angular/core/fesm2022/_untracked-chunk.mjs:[2m1206:27[22m[39m
+[90m [2mΓ¥»[22m ChainedInjector.get 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7493:32[22m[39m
+[90m [2mΓ¥»[22m lookupTokenUsingModuleInjector 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m890:31[22m[39m
+[90m [2mΓ¥»[22m getOrCreateInjectable 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m913:10[22m[39m
+[90m [2mΓ¥»[22m ╔╡╔╡directiveInject 
+node_modules/@angular/core/fesm2022/_debug_node-chunk.mjs:[2m7527:17[22m[39m
+[90m [2mΓ¥»[22m NodeInjectorFactory.RouterLink_Factory [as factory] 
+ng:/RouterLink/╔╡fac.js:[2m6:7[22m[39m
+
+[31m[2mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»Γ
+Ä»[7/7]ΓÄ»[22m[39m
+
+[31mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»[39m[1m[41m Unhandled Errors 
+[49m[22m[31mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»[39m
+[31m[1m
+Vitest caught 1 unhandled error during the test run.
+This might cause false positive tests. Resolve unhandled errors to make sure 
+your tests are not affected.[22m[39m
+
+[31mΓÄ»ΓÄ»ΓÄ»ΓÄ»[39m[1m[41m Unhandled Rejection 
+[49m[22m[31mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»[39m
+[31m[1mError[22m: NG04002: Cannot match any routes. URL Segment: 
+'signin'[39m
+[90m [2mΓ¥»[22m Recognizer.noMatchError 
+node_modules/@angular/router/fesm2022/_router-chunk.mjs:[2m2903:12[22m[39m
+[90m [2mΓ¥»[22m Recognizer.match 
+node_modules/@angular/router/fesm2022/_router-chunk.mjs:[2m2937:20[22m[39m
+[90m [2mΓ¥»[22m processTicksAndRejections 
+node:internal/process/task_queues:[2m104:5[22m[39m
+[90m [2mΓ¥»[22m Recognizer.recognize 
+node_modules/@angular/router/fesm2022/_router-chunk.mjs:[2m2910:9[22m[39m
+[90m [2mΓ¥»[22m 
+node_modules/@angular/router/fesm2022/_router-chunk.mjs:[2m3167:9[22m[39m
+
+[31m[2mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»Γ
+Ä»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»[22m[39m
+[31m[1mSerialized Error:[22m[39m [90m{ code: 4002 }[39m
+[31mThis error originated in "[1msrc/app/checkout/checkout.spec.ts[22m" 
+test file. It doesn't mean the error was thrown inside the file itself, but 
+while it was running.[39m
+[31mThe latest test that might've caused the error is "[1mshould 
+create[22m". It might mean one of the following:
+- The error was thrown, while Vitest was running this test.
+- If the error occurred after the test had been completed, this was the last 
+documented test before it was thrown.[39m
+[31mΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ
+»ΓÄ»ΓÄ»ΓÄ»ΓÄ»ΓÄ»[39m
+
+
+[2m Test Files [22m [1m[31m7 failed[39m[22m[2m | [22m[1m[32m18 passed[39m[22m[90m (25)[39m
+[2m      Tests [22m [1m[31m7 failed[39m[22m[2m | [22m[1m[32m19 passed[39m[22m[90m (26)[39m
+[2m     Errors [22m [1m[31m1 error[39m[22m
+[2m   Start at [22m 14:19:34
+[2m   Duration [22m 4.06s[2m (transform 1.67s, setup 9.43s, import 4.74s, tests 4.05s, environment 45.28s)[22m
+
